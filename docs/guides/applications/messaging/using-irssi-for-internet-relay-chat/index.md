@@ -1,4 +1,4 @@
----
+index.md
 slug: using-irssi-for-internet-relay-chat
 title: Using Irssi for Internet Relay Chat
 description: 'Use IRC and GNU Screen to maintain persistent connections to IRC networks.'
